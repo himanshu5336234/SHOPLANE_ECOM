@@ -1,0 +1,9 @@
+.Product-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.Products{
+   padding: 50px;
+}

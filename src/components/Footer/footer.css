@@ -1,0 +1,35 @@
+
+footer{
+    background-color: #1C1B1E;
+    padding: 4% 8%;
+    color: white;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: space-between;
+    letter-spacing: 1px;
+    flex-wrap: wrap;
+    
+}
+footer h4,footer p{
+    color: white;
+    display: block;
+    margin-top: 12px;
+    font-size: 14px;
+    opacity: 0.8;
+    text-decoration: none;
+}
+footer>div{
+margin: 20px;
+}
+
+footer h3{
+    font-size: 16px;
+    font-weight: 600;
+    opacity: 0.9;
+}
+footer>img{
+    width: 130px;
+    position: fixed;
+    right: 50px;
+    bottom: 0px;
+}
